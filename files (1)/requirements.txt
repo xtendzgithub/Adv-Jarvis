@@ -1,0 +1,36 @@
+# ─── J.A.R.V.I.S. GitHub Intelligence System ────────────────────────────────
+# Install with: pip install -r requirements.txt
+
+# ── Core AI ──────────────────────────────────────────────────────────────────
+openai>=1.30.0
+
+# ── GitHub ───────────────────────────────────────────────────────────────────
+PyGithub>=2.3.0
+
+# ── Voice ────────────────────────────────────────────────────────────────────
+pyttsx3>=2.90
+SpeechRecognition>=3.10.0
+pyaudio>=0.2.13          # Required by SpeechRecognition for mic input
+
+# ── Face Recognition ─────────────────────────────────────────────────────────
+# NOTE: dlib must be compiled or installed via a wheel before face_recognition
+# Windows: pip install dlib‑<version>.whl from https://github.com/z-mahmud-ali/Dlib_Windows_Python3.x
+face-recognition>=1.3.0
+opencv-python>=4.9.0
+
+# ── GUI Imaging ───────────────────────────────────────────────────────────────
+Pillow>=10.3.0
+
+# ── System Automation ─────────────────────────────────────────────────────────
+pyautogui>=0.9.54
+psutil>=5.9.8
+
+# ── Web / APIs ───────────────────────────────────────────────────────────────
+requests>=2.31.0
+beautifulsoup4>=4.12.3
+
+# ── Environment ──────────────────────────────────────────────────────────────
+python-dotenv>=1.0.1
+
+# ── Optional: Wolfram Alpha ───────────────────────────────────────────────────
+# wolframalpha>=5.0.0
