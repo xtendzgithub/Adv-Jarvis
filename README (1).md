@@ -163,10 +163,4 @@ Pull requests welcome! Please open an issue first to discuss major changes.
 
 ---
 
-## 📄 License
-
-MIT License — see [LICENSE](LICENSE) for details.
-
----
-
 > *Built with ❤️ by J.A.R.V.I.S. — because every developer deserves their own AI co-pilot.*
