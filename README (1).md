@@ -151,16 +151,4 @@ python main.py
 
 ---
 
-## 🤝 Contributing
-
-Pull requests welcome! Please open an issue first to discuss major changes.
-
-1. Fork the repo
-2. Create a feature branch: `git checkout -b feat/amazing-feature`
-3. Commit: `git commit -m "Add amazing feature"`
-4. Push: `git push origin feat/amazing-feature`
-5. Open a PR
-
----
-
 > *Built with ❤️ by J.A.R.V.I.S. — because every developer deserves their own AI co-pilot.*
